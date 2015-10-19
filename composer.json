@@ -1,0 +1,19 @@
+{
+    "name": "gaulouis/giz",
+    "description": "The base of engines",
+    "type": "library",
+    "require": {
+        "zendframework/zendframework": "2.5.2"
+    },
+    "require-dev": {
+       "phpunit/phpunit": "4.8.14"
+    },
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Louis de Gaulle",
+            "email": "gaulouis.fr@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
